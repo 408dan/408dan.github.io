@@ -35,13 +35,13 @@ But if you don’t feel like sifting through months and months of blog posts, I�
 
 Daniel’s academic workflow is as follows (Updated Jan 2019)
 
-*Rewriting notes from lecture onto a blank page 
-*Condensing rewritten notes into a blank white board (I’m obsessive over this) 
-*Khan Academy, AK Lectures, OG Chemistry Tutor, and Leah4Sci Anki for Flashcards, Quizlet if I don’t want to do spaced repitition 
-*Rounds, rounds, rounds of redoing Homework Taking practice exams under test-like conditions 
-*Using Google Sheets for memorizing pathways and diagrams (Thanks Ali Abdaal) 
-*Lecturing concepts to an imaginary audience 
-*Drinking a can of Monster Energy right before the exam 
+* Rewriting notes from lecture onto a blank page 
+* Condensing rewritten notes into a blank white board (I’m obsessive over this) 
+* Khan Academy, AK Lectures, OG Chemistry Tutor, and Leah4Sci Anki for Flashcards, Quizlet if I don’t want to do spaced repitition 
+* Rounds, rounds, rounds of redoing Homework Taking practice exams under test-like conditions 
+* Using Google Sheets for memorizing pathways and diagrams (Thanks Ali Abdaal) 
+* Lecturing concepts to an imaginary audience 
+* Drinking a can of Monster Energy right before the exam 
 
 
 Daniel’s other things online:
