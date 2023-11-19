@@ -1,38 +1,42 @@
----
-layout: post
-title: Introducing Lanyon
----
+# Welcome to my corner of the internet. 🩺📚
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+## Your Ultimate Guide through Medical School
 
-### Built on Poole
+Hello and welcome to my website - a vibrant community created by and for future healthcare heroes! I'm Dan, a medical student on a mission to make your med school journey smoother and more enjoyable.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+### 💡 What You'll Find Here
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+- **🔍 Deep Dives:** Explore in-depth articles on complex medical topics, simplified for understanding.
+- **📖 Study Strategies:** Discover effective study techniques, mnemonics, and resources.
+- **🌐 Latest Medical Breakthroughs:** Stay ahead with updates on medical research and innovations.
+- **🗣️ Peer Experiences:** Engaging stories and interviews with fellow students.
+- **🛠️ Toolkits & Guides:** Your ultimate checklists and guides for every med school challenge.
+- **🎙️ Expert Talks:** Insights from seasoned medical professionals and guest speakers.
 
-### Lanyon features
+### 🌟 Featured Post
 
-In addition to the features of Poole, Lanyon adds the following:
+> **"The Art of Balancing Medical School and Personal Life"**
+>
+> In this post, we delve into strategies for maintaining a healthy work-life balance. [Read More](link_to_post)
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
+### 📣 Join Our Community
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+1. **Subscribe:** Get our newsletter for exclusive tips and updates.
+2. **Participate:** Engage in discussions and share your views in the comments.
+3. **Follow Us:** Connect with us on [Twitter](Twitter_Link), [Instagram](Instagram_Link), and [LinkedIn](LinkedIn_Link).
 
-### Browser support
+### 📚 Resources & Tools
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+- [USMLE Step 1 Guide](Link_to_guide)
+- [Top 10 Medical Podcasts](Link_to_podcast_list)
+- [Medical School Survival Kit](Link_to_survival_kit)
 
-### Download
+### 🖥️ Tech Corner
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
+```python
+# A snippet for medical students interested in medical informatics
+def calculate_bmi(weight, height):
+    return weight / (height**2)
 
-Thanks!
+bmi = calculate_bmi(70, 1.75)
+print("Your BMI is:", bmi)
