@@ -1,29 +1,33 @@
----
-layout: page
-title: About
----
+# About Dan Nguyen :man_health_worker:
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Welcome to My Page! :wave:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello! I'm Dan Nguyen, a passionate medical student dedicated to guiding fellow students towards personal and academic growth. :mortar_board:
 
-There are currently two themes built on Poole:
+### My Journey :footprints:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- :hospital: Studying at [Your University Name]
+- :books: Majoring in [Your Major or Specialization]
+- :seedling: Passionate about [Your Interests related to Medicine and Education]
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### What I Do :stethoscope:
 
-## Setup
+My mission is to provide insights and advice to students striving to excel in their studies. I believe in a holistic approach to learning, balancing academics with personal well-being.
 
-Some fun facts about the setup of this project include:
+#### Here's what you'll find here:
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+- :bulb: **Study Tips:** Practical strategies to enhance your learning experience.
+- :muscle: **Self-Improvement Guides:** Advice on developing a growth mindset and resilience.
+- :heart: **Well-being Advice:** Tips on maintaining physical and mental health during your studies.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### My Philosophy :compass:
 
-Thanks for reading!
+"Empowering others through knowledge and compassion." I believe in nurturing a supportive community where we can all grow together.
+
+### Connect with Me :handshake:
+
+- :email: [dan.nguyen@email.com](mailto:dan.nguyen@email.com)
+- :linkedin: [LinkedIn Profile](Your LinkedIn URL)
+- :twitter: [@DanNguyen](Your Twitter URL)
+
+Thank you for visiting my page! Let's embark on this journey of learning and self-improvement together! :rocket:
