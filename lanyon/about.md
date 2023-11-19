@@ -6,9 +6,9 @@ Hello! I'm Dan Nguyen, a passionate medical student dedicated to guiding fellow 
 
 ### My Journey 👣
 
-- 🏥 Studying at [Your University Name]
-- 📚 Majoring in [Your Major or Specialization]
-- 🌱 Passionate about [Your Interests related to Medicine and Education]
+- 🏥 Studying at Massachusetts
+- 📚 Majoring in Medicine
+- 🌱 Passionate about helping you improve 1%. 
 
 ### What I Do 🩺
 
