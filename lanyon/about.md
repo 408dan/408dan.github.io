@@ -1,29 +1,30 @@
----
-layout: page
-title: About
----
+About Dan Nguyen 👨‍⚕️
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to My Page! 👋
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello! I'm Dan Nguyen, a passionate medical student dedicated to guiding fellow students towards personal and academic growth. 🎓
 
-There are currently two themes built on Poole:
+My Journey 👣
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+🏥 Studying at [Your University Name]
+📚 Majoring in [Your Major or Specialization]
+🌱 Passionate about [Your Interests related to Medicine and Education]
+What I Do 🩺
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+My mission is to provide insights and advice to students striving to excel in their studies. I believe in a holistic approach to learning, balancing academics with personal well-being.
 
-## Setup
+Here's what you'll find here:
 
-Some fun facts about the setup of this project include:
+💡 Study Tips: Practical strategies to enhance your learning experience.
+💪 Self-Improvement Guides: Advice on developing a growth mindset and resilience.
+❤️ Well-being Advice: Tips on maintaining physical and mental health during your studies.
+My Philosophy 🧭
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+"Empowering others through knowledge and compassion." I believe in nurturing a supportive community where we can all grow together.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Connect with Me 🤝
 
-Thanks for reading!
+📧 dan.nguyen@email.com
+:linkedin: [LinkedIn Profile](Your LinkedIn URL)
+:twitter: [@DanNguyen](Your Twitter URL)
+Thank you for visiting my page! Let's embark on this journey of learning and self-improvement together! 🚀
